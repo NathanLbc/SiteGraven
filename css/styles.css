@@ -1,0 +1,42 @@
+nav.menu-nav ul li.btn{
+	display: inline-block;
+}
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+
+}
+nav.menu-nav ul li.btn a{
+	color: #fff;
+	background-color: red;
+	text-decoration: none;
+	padding: 10px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: red;
+	background-color: white;
+	transition: 300ms all;
+}
+
+
+
+
+
+/*p.Welcome{
+	color: #fff;
+	background-color: #E21C44 
+}
+p.vivacss{
+	color: blue;
+	font-weight: bold;
+}
+body{
+	background-color: #777
+}
+h2.headline{
+	font-size: 50px;
+	padding-left: 200px; 
+	 Dans le html <a class="code-couleur" href="http://code-couleur.com" target="_BLANK">
+			Lien vers site couleurs
+		</a>
+}*/
